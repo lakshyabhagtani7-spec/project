@@ -111,7 +111,7 @@ NeoMind: "Recently, NASA announced plans for a new mission to..."
  Enhance intent classification using NLP models instead of keyword matching.
 
 
-📧 svishesh1708@gmail.com
+📧 
 
 📜 License
 This project is licensed under the MIT License — feel free to use and modify with attribution.
